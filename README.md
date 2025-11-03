@@ -6,14 +6,6 @@
 
 ---
 
-### 🧑‍💻 About Me
-- 💡 Curious developer always exploring new tools and APIs  
-- 🚀 Building cool projects for hackathons and fun  
-- 🎯 Motto: *"Don’t be afraid, just laugh."*  
-- 📫 Reach me at: **aryanpratap012008@gmail.com**
-
----
-
 ### ⚙️ Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,c,html,css,js,github,vscode" />
