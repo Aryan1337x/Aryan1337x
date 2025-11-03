@@ -1,16 +1,63 @@
-## Hi there 👋
+<!-- ✨ Profile README for Aryan1337x ✨ -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Hey+there!+👋;I'm+Aryan+Pratap+Singh;Coding+is+my+comfort+zone!" alt="Typing Animation" />
+</h1>
 
-<!--
-**Aryan1337x/Aryan1337x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://i.pinimg.com/originals/ed/0a/38/ed0a38f3f6d6fef9a69a9b6b7f07b0b4.gif" width="350px" alt="Coding Cat"/>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧑‍💻 About Me
+- 💡 Curious developer always exploring new tools and APIs  
+- 🚀 Building cool projects for hackathons and fun  
+- 🎯 Motto: *"Don’t be afraid, just laugh."*  
+- 📫 Reach me at: **aryanpratap012008@gmail.com**
+
+---
+
+### ⚙️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,react,flask,git,github,vscode" />
+</p>
+
+---
+
+### 📊 Hacktime & GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=22064&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=nightowl" alt="Hackatime Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aryan1337x&show_icons=true&theme=nightowl" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan1337x&layout=compact&theme=nightowl" alt="Top Languages" />
+</p>
+
+---
+
+### 🏆 Achievements & Highlights
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Aryan1337x&theme=onedark&no-bg=true&margin-w=15&margin-h=15" />
+</p>
+
+---
+
+### 🔥 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryan1337x&theme=react-dark&hide_border=true&bg_color=0d1117" alt="Contribution Graph" />
+</p>
+
+---
+
+### 💬 Quote of the Day
+<p align="center">
+  <img src="https://readme-quote.vercel.app/api?theme=dark&quote=Work+hard+in+silence,+let+your+code+make+the+noise." />
+</p>
+
+---
+
+<h3 align="center">⭐ Thanks for visiting! ⭐</h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Aryan1337x&label=Profile+Views&color=blueviolet&style=flat" alt="Profile views counter" />
+</p>
