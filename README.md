@@ -41,7 +41,7 @@
 
 ### 💬 Quote of the Day
 <p align="center">
-  <img src="https://readme-quote.vercel.app/api?theme=dark&quote=Work+hard+in+silence,+let+your+code+make+the+noise." />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote"/>
 </p>
 
 ---
