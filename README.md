@@ -3,9 +3,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Hey+there!+👋;I'm+Aryan+Pratap+Singh;Coding+is+my+comfort+zone!" alt="Typing Animation" />
 </h1>
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/ed/0a/38/ed0a38f3f6d6fef9a69a9b6b7f07b0b4.gif" width="350px" alt="Coding Cat"/>
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Hey+there!+👋;I'm+Aryan+Pratap+Singh;Coding+is+my+comfort+zone!" alt="Typing Animation" />
+</h1>
+
 
 ---
 
