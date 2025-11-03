@@ -1,9 +1,5 @@
 <!-- ✨ Profile README for Aryan1337x ✨ -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Hey+there!+👋;I'm+Aryan+Pratap+Singh;Coding+is+my+comfort+zone!" alt="Typing Animation" />
-</h1>
-
-<h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Hey+there!+👋;I'm+Aryan+Pratap+Singh;Coding+is+my+comfort+zone!" alt="Typing Animation" />
 </h1>
 
